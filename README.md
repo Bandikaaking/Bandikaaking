@@ -1,4 +1,3 @@
-<hr>
 
 # Hello
 
@@ -10,5 +9,18 @@
 - I am *currently* 12 years old!
 - I **LOVE** to do programming
 - You can be my friend, or just *say* something, just e-mail me! andrasmilak23@gmail.com
+- A **boy** 
+
+### My main **programming** languages
+
+- lua
+- c#
+- go
+
+---
+
+<h5>
+  Have a great day!!
+</h5>
 
 <hr>
