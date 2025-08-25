@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Bandikaaking (but you can call me Bandi :)
-- 📫 You can reach me at this e-mail:andrasmilak23@gmail.com
-- 😄 my pronouns:He/him/his
-- ⚡ Fun fact: Im currently at high school
+<hr>
 
-<!---
-Bandikaaking/Bandikaaking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello
+
+
+
+## Let me tell a little about me!:
+- My name is **"Milák András"**, buuuut you can call me "Andrew"  or  "Bandi"
+- I am from ***Hungary***
+- I am *currently* 12 years old!
+- I **LOVE** to do programming
+- You can be my friend, or just *say* something, just e-mail me! andrasmilak23@gmail.com
+
+<hr>
