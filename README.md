@@ -23,10 +23,14 @@
 # Projects
 
 - Eyefuck Interpreter
-This is the main eyefuck interpreter originally written in **Golang** but then i wrote it in over +5 langs
-
+This is the main eyefuck interpreter originally written in **Golang** but then i wrote it in over +5 langs (depracetad)
 - A.S.D interpreter
-This is my first interpreter, written in php, but then i wrote it in c++!
+This is my first interpreter, written in php
+
+# Stats:
+
+![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandikaaking&hide=html&theme=radical&layout=compact&hide_border=true)
+
 
 <h5>
   Have a great day!!
