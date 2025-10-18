@@ -28,7 +28,8 @@ This is the main eyefuck interpreter originally written in **Golang** but then i
 This is my first interpreter, written in php
 
 # Stats:
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandikaaking&hide=html&theme=radical&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandikaaking&hide=html&theme=radical&layout=compact&hide_border=true&cache_seconds=1)
+
 
 <h5>
   Have a great day!!
