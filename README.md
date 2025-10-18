@@ -29,7 +29,7 @@ This is my first interpreter, written in php
 
 # Stats:
 
-![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandikaaking&hide=html&theme=radical&layout=compact&hide_border=true)
+![lang stat top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandikaaking&hide=html&theme=radical&layout=compact&hide_border=true)
 
 
 <h5>
