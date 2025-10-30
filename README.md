@@ -16,7 +16,7 @@
 
 - lua
 - c#
-- go
+- rust
 - c/c++
 
 
